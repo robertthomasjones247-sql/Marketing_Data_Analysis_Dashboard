@@ -69,6 +69,23 @@ Further demographic analysis showed that campaign engagement was consistently st
 
 ---
 
+## Question 2 — Which Customer Demographics Generate the Highest Spending?
+
+### Income Group Spending Analysis
+![Income Group Spending Analysis](income_group_spending.png)
+
+### Country Spending Comparison
+![Country Spending Comparison](country_income_spending.png)
+
+### Key Insights
+Analysis indicates that average spending was highest among high-income customers, followed by medium-income and low-income groups. This suggests purchasing behaviour is strongly influenced by income level, with higher-income customers contributing substantially greater product spending.
+
+Cross-country analysis revealed relatively consistent spending patterns across most regions. However, Mexico recorded notably strong spending behaviour among medium-income customers (£859), significantly outperforming comparable demographics in other countries.
+
+These findings may suggest stronger product engagement or purchasing power within Mexico’s medium-income customer segment and could provide useful insight for future regional marketing strategies.
+
+---
+
 ## Tools Used
 
 - SQL
