@@ -55,7 +55,7 @@ The dataset contains customer demographic information, purchasing behaviour, and
 ## Question 1 — Marketing Campaign Performance
 
 ### SQL Query
-![Campaign Performance Query]
+![Campaign Performance Query](Marketing_Campaign.png)
 
 ### Key Insights
 Marketing campaigns 3, 4, and 5 achieved the strongest acceptance performance, with all three recording very similar customer acceptance totals.
