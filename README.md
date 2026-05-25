@@ -85,6 +85,22 @@ Cross-country analysis revealed relatively consistent spending patterns across m
 These findings may suggest stronger product engagement or purchasing power within Mexico’s medium-income customer segment and could provide useful insight for future regional marketing strategies.
 
 ---
+## Question 3 — Which Product Categories Generate the Highest Customer Spending?
+
+### Product Category Spending Analysis
+![Product Category Spending](product_category_spending.png)
+
+### Customer Relationship Spending Analysis
+![Marital Status Spending Analysis](marital_status_spending.png)
+
+### Key Insights
+Wine products generated the highest level of customer spending (£676,083), significantly outperforming all other product categories. Meat products ranked second (£370,063), followed by gold products (£97,427), while fruit products recorded the lowest overall spending levels (£58,405).
+
+Customer demographic analysis revealed that married customers generated the highest overall spending across most product categories, particularly wine purchases, followed closely by customers living together.
+
+Among non-married demographic groups, single customers demonstrated the strongest overall spending behaviour, suggesting higher purchasing activity compared to divorced and widowed customers.
+
+---
 
 ## Tools Used
 
