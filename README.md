@@ -102,6 +102,17 @@ Among non-married demographic groups, single customers demonstrated the stronges
 
 ---
 
+## Question 4 — Which Purchasing Channel Is Most Popular Among Customers?
+
+### Purchasing Channel Analysis
+![Purchasing Channel Analysis](purchasing_channel_analysis.png)
+
+### Key Insights
+Store purchases (12,855) represented the most popular purchasing channel among customers, significantly outperforming both web purchases (9,053) and catalogue purchases (5,919). Deal purchases recorded the lowest overall activity across all purchasing methods.
+
+The lower catalogue purchase volume compared to web transactions may indicate a broader customer preference toward digital purchasing channels. These findings suggest potential opportunities to further strengthen online sales strategies and improve digital customer engagement.
+
+---
 ## Tools Used
 
 - SQL
