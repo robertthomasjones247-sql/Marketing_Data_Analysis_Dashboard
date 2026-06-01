@@ -85,6 +85,7 @@ Cross-country analysis revealed relatively consistent spending patterns across m
 These findings may suggest stronger product engagement or purchasing power within Mexico’s medium-income customer segment and could provide useful insight for future regional marketing strategies.
 
 ---
+
 ## Question 3 — Which Product Categories Generate the Highest Customer Spending?
 
 ### Product Category Spending Analysis
@@ -113,14 +114,7 @@ Store purchases (12,855) represented the most popular purchasing channel among c
 The lower catalogue purchase volume compared to web transactions may indicate a broader customer preference toward digital purchasing channels. These findings suggest potential opportunities to further strengthen online sales strategies and improve digital customer engagement.
 
 ---
-## Tools Used
 
-- SQL
-- Power BI
-- GitHub
-- Excel
-
----
 
 ## Dashboard Preview
 
@@ -128,7 +122,15 @@ The lower catalogue purchase volume compared to web transactions may indicate a 
 
 ---
 
+## Tools Used
+
+- SQL
+- Power BI
+- GitHub
+- Excel
 ## Author
+
+---
 
 Created as part of a personal Data Analytics portfolio project focused on developing practical SQL, business intelligence, and customer analytics skills.# Marketing_Data_Analysis_Dashboard
 SQL Analysis project exploring Marketing trends and sales patterns
