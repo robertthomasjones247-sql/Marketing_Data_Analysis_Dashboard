@@ -122,9 +122,9 @@ The lower catalogue purchase volume compared to web transactions may indicate a 
 
 ---
 
-## Power BI Dashboard
+## Dashboard Preview
 
-Power BI dashboard screenshots and visual analysis will be added upon completion of the dashboard build.
+![Dashboard](Marketing_Data_Powerbi.png)
 
 ---
 
